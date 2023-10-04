@@ -1,0 +1,35 @@
+body{
+    box-sizing: border-box;
+}
+.loginform{
+    background: #bebeee;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 20px;
+   
+}
+.login{
+    background: linear-gradient(rgb(9, 2, 53),rgb(2, 20, 110));
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.input {
+    width: 300px;
+    border-radius: 5px;
+    border: 0px  ;
+}
+.loginText{
+margin-left: 100px;
+}
+.image{
+margin-left: 100px;
+font-size: 100px;
+color: #190884;
+}
+#submit{
+border-radius: 5px;
+margin-left: 115px;
+border: 0;
+}
